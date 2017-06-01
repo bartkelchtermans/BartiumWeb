@@ -147,7 +147,7 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/bg-space.jpg");
+  background: url("../img/bg-space.png");
   background-size: cover;
   /* fallback for old browsers */
   /*background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);*/
