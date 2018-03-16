@@ -126,6 +126,11 @@ p {
 .navbar-default .nav > li.active > a:focus:hover {
   background-color: transparent;
 }
+@media (max-width: 768px) {
+  .hide-small {
+    display: none;
+  }
+}
 @media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
