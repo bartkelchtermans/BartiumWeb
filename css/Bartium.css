@@ -231,7 +231,7 @@ header .device-container .screen img {
   header .device-container {
     max-width: none;
     max-height: calc(0vh);
-    margin: -70px auto 0;
+    margin: -90px auto 0;
   }
 }
 @media (min-width: 992px) {
